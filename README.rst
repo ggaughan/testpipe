@@ -19,8 +19,8 @@ Copy the pipe module into `testpipe/`
 Replace references to the example pipe (UuvYtuMe3hGDsmRgPm7D0g) 
 in `main.py` with your pipe id
 
-Run via the App Engine develpment web server
---------------------------------------------
+Run via the App Engine development web server
+---------------------------------------------
 google_appengine/dev_appserver.py testpipe/
 
 Test in the browser
